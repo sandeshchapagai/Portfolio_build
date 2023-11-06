@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e55ee6b9.css",
+    "main.js": "/static/js/main.e25e5979.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.a4ebcb4850d28aca35a5.png",
+    "static/media/web-development-image.png": "/static/media/web-development-image.bb282c0b03c2c135978a.png",
+    "static/media/Mobile-App-Development-Banner-Final.png": "/static/media/Mobile-App-Development-Banner-Final.7b7e6a4bc04ecc3737ae.png",
+    "static/media/resu.pdf": "/static/media/resu.b408f05f82f722b31ee7.pdf",
+    "static/media/github.png": "/static/media/github.9e094d235b4caa7c31fc.png",
+    "static/media/instagram.png": "/static/media/instagram.776d16d0e9daa177afd5.png",
+    "static/media/linkedin.png": "/static/media/linkedin.41a23f98c77f41c13b8e.png",
+    "static/media/twitter.png": "/static/media/twitter.e4f83bef4191a65e9c7d.png",
+    "static/media/facebook.png": "/static/media/facebook.ec5c730cfe163b1e5ed8.png",
+    "index.html": "/index.html",
+    "main.e55ee6b9.css.map": "/static/css/main.e55ee6b9.css.map",
+    "main.e25e5979.js.map": "/static/js/main.e25e5979.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55ee6b9.css",
+    "static/js/main.e25e5979.js"
+  ]
+}
